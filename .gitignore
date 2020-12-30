@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+_ide_helper.php
+.idea/
+.DS_Store
+go.sum
